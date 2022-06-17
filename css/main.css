@@ -1,0 +1,14 @@
+h3{
+    color: #494949; 
+    border-bottom: 1px solid #7bac3b; 
+    font-family: Lato;
+    }
+    
+    em{
+    font-family: monospace; 
+    padding: 0.3em; 
+    background-color: #d9f5f9; 
+    color: #0f8593; 
+    border-radius: 4px; 
+    font-style: normal;
+    }
